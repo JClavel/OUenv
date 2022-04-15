@@ -43,6 +43,8 @@ References
 ==
 
 Clavel & Morlon - Proc. Nat. Acad. Sci., 114(16): 4183-4188
-Troyer et al. - in review
+
+Troyer et al. - in review.
+
 Clavel et al. - in prep.
 
